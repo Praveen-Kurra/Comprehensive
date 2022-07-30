@@ -1,0 +1,1267 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Extent Framework</title>
+<link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@b00a2d0486596e73dd7326beacf352c639623a0e/commons/img/logo.png">
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@b00a2d0486596e73dd7326beacf352c639623a0e/commons/img/logo.png">
+<link href="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@d6562a79075e061305ccfdb82f01e5e195e2d307/spark/css/spark-style.css" rel="stylesheet" />
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@7cc78ce/spark/js/jsontree.js"></script>
+<style type="text/css"></style></head><body class="spa bdd-report standard">
+  <div class="app">
+    <div class="layout">
+<div class="header navbar">
+<div class="vheader">
+<div class="nav-logo">
+<a href="#">
+<div class="logo" style="background-image: url('https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@b00a2d0486596e73dd7326beacf352c639623a0e/commons/img/logo.png')"></div>
+</a>
+</div>
+<ul class="nav-left">
+<li class="search-box">
+<a class="search-toggle" href="#">
+<i class="search-icon fa fa-search"></i>
+<i class="search-icon-close fa fa-close"></i>
+</a>
+</li>
+<li class="search-input"><input id="search-tests" class="form-control" type="text" placeholder="Search..."></li>
+</ul>
+<ul class="nav-right">
+<li class="m-r-10">
+<a href="#"><span class="badge badge-primary">Build 1</span></a>
+</li>
+<li class="m-r-10">
+<a href="#"><span class="badge badge-primary">Jul 29, 2022 17:44:50</span></a>
+</li>
+</ul>
+</div>
+</div><div class="side-nav">
+<div class="side-nav-inner">
+<ul class="side-nav-menu">
+<li class="nav-item dropdown" onclick="toggleView('test-view')">
+<a id="nav-test" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-list"></i></span>
+</a>
+</li>
+<li class="nav-item dropdown" onclick="toggleView('category-view')">
+<a id="nav-category" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-tag"></i></span>
+</a>
+</li>
+<li class="nav-item dropdown" onclick="toggleView('dashboard-view')">
+<a id="nav-dashboard" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-bar-chart"></i></span>
+</a>
+</li>
+</ul>
+</div>
+</div>      <div class="vcontainer">
+        <div class="main-content">
+<div class="test-wrapper row view test-view">
+  <div class="test-list">
+    <div class="test-list-tools">
+<ul class="tools pull-left">
+<li><a href="#"><span class="font-size-14">Tests</span></a></li>
+</ul>
+<ul class="tools text-right">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-exclamation-circle"></i></a>
+<ul id="status-toggle" class="dropdown-menu dropdown-md p-v-0">
+<a class="dropdown-item" status="pass" href="#"><span>Pass</span><span class="status success"></span></a>
+<div class="dropdown-divider"></div>
+<a status="clear" class="dropdown-item" href="#"><span>Clear</span><span class="pull-right"><i class="fa fa-close"></i></span></a>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-tag"></i></a>
+<ul id="tag-toggle" class="dropdown-menu dropdown-md p-v-0">
+<a class="dropdown-item" href="#">@Unit</a><a class="dropdown-item" href="#">@sanity</a><a class="dropdown-item" href="#">@Integratiuon</a><a class="dropdown-item" href="#">@Integration</a><a class="dropdown-item" href="#">@Regression</a><a class="dropdown-item" href="#">@Sanity</a><a class="dropdown-item" href="#">@unit</a><a class="dropdown-item" href="#">@unit-test</a>
+</ul>
+</li>
+</ul>
+</div>    <div class="test-list-wrapper scrollable">
+      <ul class="test-list-item">
+        <li class="test-item"  status="pass" test-id="1"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Articles info</p>
+            <p class="text-sm">
+              <span>5:44:52 PM</span> / <span>00:00:11:970</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">Articles info</h5>
+<span class='badge badge-success'>07.29.2022 5:44:52 PM</span>
+<span class='badge badge-danger'>07.29.2022 5:45:04 PM</span>
+<span class='badge badge-default'>00:00:11:970</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="2"><span class="badge log pass-bg mr-2">Pass</span>Loard of Love</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="stepDefnition.HookStepDefnition.i_am_on_tide_home_page()">
+                <span>Given i am on tide homePage</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.ArticleStepDefnition.i_scroll_down_window()">
+                <span>And i scroll down window</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.ArticleStepDefnition.i_click_on_loards_of_love_article()">
+                <span>When i click on loards of love article</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.ArticleStepDefnition.it_should_navagates_article_page()">
+                <span>Then it should navagates article page</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="9"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Tide Commitment</p>
+            <p class="text-sm">
+              <span>5:45:04 PM</span> / <span>00:00:13:878</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">Tide Commitment</h5>
+<span class='badge badge-success'>07.29.2022 5:45:04 PM</span>
+<span class='badge badge-danger'>07.29.2022 5:45:18 PM</span>
+<span class='badge badge-default'>00:00:13:878</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=9</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="10"><span class="badge log pass-bg mr-2">Pass</span>our Ambition</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="stepDefnition.HookStepDefnition.i_am_on_tide_home_page()">
+                <span>Given i am on tide homePage</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.CommitmentStepDefnition.i_mouse_hover_on_commitment()">
+                <span>And i mouseHover on Commitment</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.CommitmentStepDefnition.i_click_on_our_ambition()">
+                <span>When i click on Our ambition</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.CommitmentStepDefnition.it_should_navigates_to_page()">
+                <span>Then it should navigates to page</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="17"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Coupons and Rewards</p>
+            <p class="text-sm">
+              <span>5:45:18 PM</span> / <span>00:00:15:213</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">Coupons and Rewards</h5>
+<span class='badge badge-success'>07.29.2022 5:45:18 PM</span>
+<span class='badge badge-danger'>07.29.2022 5:45:33 PM</span>
+<span class='badge badge-default'>00:00:15:213</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=17</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="18"><span class="badge log pass-bg mr-2">Pass</span>Rewards</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="stepDefnition.HookStepDefnition.i_am_on_tide_home_page()">
+                <span>Given i am on tide homePage</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.CouponsStepDefnition.i_click_on_coupons_and_rewards()">
+                <span>And i click on coupons and rewards</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.CouponsStepDefnition.i_click_on_save_button()">
+                <span>When i click on save Button</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.CouponsStepDefnition.it_go_to_parennt_page()">
+                <span>Then it go to Parennt Page</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="25"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Mechine care</p>
+            <p class="text-sm">
+              <span>5:45:33 PM</span> / <span>00:00:10:145</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">Mechine care</h5>
+<span class='badge badge-success'>07.29.2022 5:45:33 PM</span>
+<span class='badge badge-danger'>07.29.2022 5:45:43 PM</span>
+<span class='badge badge-default'>00:00:10:145</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=25</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="26"><span class="badge log pass-bg mr-2">Pass</span>Title of your scenario</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="stepDefnition.HookStepDefnition.i_am_on_tide_home_page()">
+                <span>Given i am on tide homePage</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.CustomProductStepDefnition.i_scroll_down_window()">
+                <span>And i scrollDown Window</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.CustomProductStepDefnition.i_click_on_browse_by_type()">
+                <span>When i click on Browse By type</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.CustomProductStepDefnition.i_click_on_mechine_care()">
+                <span>And i click on mechine care</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.CustomProductStepDefnition.it_displayes_products()">
+                <span>Then it displayes products</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="34"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Information Articles</p>
+            <p class="text-sm">
+              <span>5:45:43 PM</span> / <span>00:00:10:864</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">Information Articles</h5>
+<span class='badge badge-success'>07.29.2022 5:45:43 PM</span>
+<span class='badge badge-danger'>07.29.2022 5:45:54 PM</span>
+<span class='badge badge-default'>00:00:10:864</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=34</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="35"><span class="badge log pass-bg mr-2">Pass</span>Check Egg stains</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="stepDefnition.HookStepDefnition.i_am_on_tide_home_page()">
+                <span>Given i am on tide homePage</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.InformationStepDefnition.i_mouse_hoever_on_how_to_wash()">
+                <span>And i mouseHoever on How to wash</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.InformationStepDefnition.i_click_on_remove_statins()">
+                <span>When i click on Remove Statins</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.InformationStepDefnition.i_click_egg_statins()">
+                <span>Then i click Egg Statins</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.InformationStepDefnition.it_display_information()">
+                <span>And it display information</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="43"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Live Chat</p>
+            <p class="text-sm">
+              <span>5:45:54 PM</span> / <span>00:00:10:993</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">Live Chat</h5>
+<span class='badge badge-success'>07.29.2022 5:45:54 PM</span>
+<span class='badge badge-danger'>07.29.2022 5:46:05 PM</span>
+<span class='badge badge-default'>00:00:10:993</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=43</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="44"><span class="badge log pass-bg mr-2">Pass</span>Title of your scenario</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="stepDefnition.HookStepDefnition.i_am_on_tide_home_page()">
+                <span>Given i am on tide homePage</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.LiveChatStepDefniton.i_click_on_live_chat()">
+                <span>When i click on live Chat</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.LiveChatStepDefniton.it_should_displayes_timinigs()">
+                <span>Then it should displayes timinigs</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="50"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">New Launches</p>
+            <p class="text-sm">
+              <span>5:46:05 PM</span> / <span>00:00:11:674</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">New Launches</h5>
+<span class='badge badge-success'>07.29.2022 5:46:05 PM</span>
+<span class='badge badge-danger'>07.29.2022 5:46:17 PM</span>
+<span class='badge badge-default'>00:00:11:674</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=50</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="51"><span class="badge log pass-bg mr-2">Pass</span>Title of your scenario</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="stepDefnition.HookStepDefnition.i_am_on_tide_home_page()">
+                <span>Given i am on tide homePage</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.NewLaunchStepDefnition.i_click_on_whats_new()">
+                <span>When i click on whats new</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.NewLaunchStepDefnition.it_should_display_new_launches()">
+                <span>Then it should display new Launches</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="57"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Customised products</p>
+            <p class="text-sm">
+              <span>5:46:17 PM</span> / <span>00:00:16:549</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">Customised products</h5>
+<span class='badge badge-success'>07.29.2022 5:46:17 PM</span>
+<span class='badge badge-danger'>07.29.2022 5:46:33 PM</span>
+<span class='badge badge-default'>00:00:16:549</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=57</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="58"><span class="badge log pass-bg mr-2">Pass</span>Title of your scenario</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="stepDefnition.HookStepDefnition.i_am_on_tide_home_page()">
+                <span>Given i am on tide homePage</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.ProductsStepDefnition.i_mouse_hover_on_products()">
+                <span>And i mouseHover on products</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.ProductsStepDefnition.i_click_on_fabric_care()">
+                <span>When i click on fabric care</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.ProductsStepDefnition.i_click_on_antifabric_spray()">
+                <span>And i click on antifabric spray</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.ProductsStepDefnition.i_click_on_retailers()">
+                <span>Then i click on retailers</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.ProductsStepDefnition.it_should_price()">
+                <span>And it should price</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="67"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Terms and conditions</p>
+            <p class="text-sm">
+              <span>5:46:33 PM</span> / <span>00:00:13:029</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">Terms and conditions</h5>
+<span class='badge badge-success'>07.29.2022 5:46:33 PM</span>
+<span class='badge badge-danger'>07.29.2022 5:46:46 PM</span>
+<span class='badge badge-default'>00:00:13:029</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=67</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="68"><span class="badge log pass-bg mr-2">Pass</span>Title of your scenario</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="stepDefnition.HookStepDefnition.i_am_on_tide_home_page()">
+                <span>Given i am on tide homePage</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.TandCStepDefnition.i_click_on_t_and_c()">
+                <span>When i click on T and c</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.TandCStepDefnition.it_should_navigate_to_parent_website()">
+                <span>Then it should navigate to parent website</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="stepDefnition.TandCStepDefnition.check_the_title()">
+                <span>And check the title</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+<div class="test-content scrollable">
+<div class="test-content-tools">
+<ul><li><a class="back-to-test" href="#"><i class="fa fa-arrow-left"></i></a></li></ul>
+</div>
+<div class="test-content-detail"><div class="detail-body"></div></div>
+</div></div>
+<div class="test-wrapper row view category-view attributes-view">
+<div class="test-list">
+<div class="test-list-tools">
+<ul class="tools pull-left"><li><a href=""><span class="font-size-14">Category</span></a></li></ul>
+<ul class="tools text-right"><li><a href="#"><span class="badge badge-primary">8</span></a></li></ul>
+</div>
+<div class="test-list-wrapper scrollable">
+<ul class="test-list-item">
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>1</span>
+</span>
+<p class="name">@Unit</p>
+<p class="duration text-sm">1 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@Unit</h4>
+<span status="pass" class='badge log pass-bg'>1 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:45:43 PM</td>
+<td>
+<a href="#" class="linked" test-id='34' id='35'>Check Egg stains</a>
+<div class="">
+<span class="badge badge-default">Information Articles.Check Egg stains</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>6</span>
+</span>
+<p class="name">@sanity</p>
+<p class="duration text-sm">6 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@sanity</h4>
+<span status="pass" class='badge log pass-bg'>6 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:44:52 PM</td>
+<td>
+<a href="#" class="linked" test-id='1' id='2'>Loard of Love</a>
+<div class="">
+<span class="badge badge-default">Articles info.Loard of Love</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:45:04 PM</td>
+<td>
+<a href="#" class="linked" test-id='9' id='10'>our Ambition</a>
+<div class="">
+<span class="badge badge-default">Tide Commitment.our Ambition</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:45:33 PM</td>
+<td>
+<a href="#" class="linked" test-id='25' id='26'>Title of your scenario</a>
+<div class="">
+<span class="badge badge-default">Mechine care.Title of your scenario</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:45:43 PM</td>
+<td>
+<a href="#" class="linked" test-id='34' id='35'>Check Egg stains</a>
+<div class="">
+<span class="badge badge-default">Information Articles.Check Egg stains</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:45:54 PM</td>
+<td>
+<a href="#" class="linked" test-id='43' id='44'>Title of your scenario</a>
+<div class="">
+<span class="badge badge-default">Live Chat.Title of your scenario</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:46:05 PM</td>
+<td>
+<a href="#" class="linked" test-id='50' id='51'>Title of your scenario</a>
+<div class="">
+<span class="badge badge-default">New Launches.Title of your scenario</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>1</span>
+</span>
+<p class="name">@Integratiuon</p>
+<p class="duration text-sm">1 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@Integratiuon</h4>
+<span status="pass" class='badge log pass-bg'>1 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:46:17 PM</td>
+<td>
+<a href="#" class="linked" test-id='57' id='58'>Title of your scenario</a>
+<div class="">
+<span class="badge badge-default">Customised products.Title of your scenario</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>2</span>
+</span>
+<p class="name">@Integration</p>
+<p class="duration text-sm">2 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@Integration</h4>
+<span status="pass" class='badge log pass-bg'>2 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:45:33 PM</td>
+<td>
+<a href="#" class="linked" test-id='25' id='26'>Title of your scenario</a>
+<div class="">
+<span class="badge badge-default">Mechine care.Title of your scenario</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:46:33 PM</td>
+<td>
+<a href="#" class="linked" test-id='67' id='68'>Title of your scenario</a>
+<div class="">
+<span class="badge badge-default">Terms and conditions.Title of your scenario</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>3</span>
+</span>
+<p class="name">@Regression</p>
+<p class="duration text-sm">3 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@Regression</h4>
+<span status="pass" class='badge log pass-bg'>3 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:44:52 PM</td>
+<td>
+<a href="#" class="linked" test-id='1' id='2'>Loard of Love</a>
+<div class="">
+<span class="badge badge-default">Articles info.Loard of Love</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:45:04 PM</td>
+<td>
+<a href="#" class="linked" test-id='9' id='10'>our Ambition</a>
+<div class="">
+<span class="badge badge-default">Tide Commitment.our Ambition</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:46:05 PM</td>
+<td>
+<a href="#" class="linked" test-id='50' id='51'>Title of your scenario</a>
+<div class="">
+<span class="badge badge-default">New Launches.Title of your scenario</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>2</span>
+</span>
+<p class="name">@Sanity</p>
+<p class="duration text-sm">2 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@Sanity</h4>
+<span status="pass" class='badge log pass-bg'>2 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:45:18 PM</td>
+<td>
+<a href="#" class="linked" test-id='17' id='18'>Rewards</a>
+<div class="">
+<span class="badge badge-default">Coupons and Rewards.Rewards</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:46:33 PM</td>
+<td>
+<a href="#" class="linked" test-id='67' id='68'>Title of your scenario</a>
+<div class="">
+<span class="badge badge-default">Terms and conditions.Title of your scenario</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>1</span>
+</span>
+<p class="name">@unit</p>
+<p class="duration text-sm">1 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@unit</h4>
+<span status="pass" class='badge log pass-bg'>1 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:46:17 PM</td>
+<td>
+<a href="#" class="linked" test-id='57' id='58'>Title of your scenario</a>
+<div class="">
+<span class="badge badge-default">Customised products.Title of your scenario</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>2</span>
+</span>
+<p class="name">@unit-test</p>
+<p class="duration text-sm">2 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@unit-test</h4>
+<span status="pass" class='badge log pass-bg'>2 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:45:18 PM</td>
+<td>
+<a href="#" class="linked" test-id='17' id='18'>Rewards</a>
+<div class="">
+<span class="badge badge-default">Coupons and Rewards.Rewards</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>17:45:54 PM</td>
+<td>
+<a href="#" class="linked" test-id='43' id='44'>Title of your scenario</a>
+<div class="">
+<span class="badge badge-default">Live Chat.Title of your scenario</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="test-content scrollable">
+<div class="test-content-detail">
+<div class="detail-body"></div>
+</div>
+</div>
+</div><div class="container-fluid p-4 view dashboard-view">
+<div class="row">
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0">Started</p>
+<h3>Jul 29, 2022 17:44:50</h3>
+</div></div>
+</div>
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0">Ended</p>
+<h3>Jul 29, 2022 17:46:46</h3>
+</div></div>
+</div>
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0 text-pass">Features Passed</p>
+<h3>9</h3>
+</div></div>
+</div>
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0 text-fail">Features Failed</p>
+<h3>0</h3>
+</div></div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="card">
+<div class="card-header">
+<h6 class="card-title">Features</h6>
+</div>
+<div class="card-body">
+<div class="">
+<canvas id='parent-analysis' width='115' height='90'></canvas>
+</div>
+</div>
+<div class="card-footer">
+<div><small data-tooltip='100%'>
+<b>9</b> features passed
+</small>
+</div>
+<div>
+<small data-tooltip='0%'><b>0</b> features failed,
+<b>0</b> skipped, <b data-tooltip='0%'>0</b> others
+</small>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card">
+<div class="card-header">
+<h6 class="card-title">Scenarios</h6>
+</div>
+<div class="card-body">
+<div class="">
+<canvas id='child-analysis' width='115' height='90'></canvas>
+</div>
+</div>
+<div class="card-footer">
+<div><small data-tooltip='100%'><b>9</b> scenarios passed</small></div>
+<div>
+<small data-tooltip='0%'><b>0</b> scenarios failed,
+<b>0</b> skipped, <b data-tooltip='%'>0</b> others
+</small>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card">
+<div class="card-header">
+<h6 class="card-title">Steps</h6>
+</div>
+<div class="card-body">
+<div class="">
+<canvas id='grandchild-analysis' width='115' height='90'></canvas>
+</div>
+</div>
+<div class="card-footer">
+<div><small data-tooltip='100%'><b>38</b> steps passed</small></div>
+<div>
+<small data-tooltip='0%'><b>0</b> steps failed,
+<b>0</b> skipped, <b data-tooltip='%'>0</b> others
+</small>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row"><div class="col-md-12">
+<div class="card"><div class="card-header"><p>Timeline</p></div>
+<div class="card-body pt-0"><div>
+<canvas id="timeline" height="120"></canvas>
+</div></div>
+</div>
+</div></div>
+<script>
+var timeline = {
+"Articles info":11.97,"Tide Commitment":13.878,"Coupons and Rewards":15.213,"Mechine care":10.145,"Information Articles":10.864,"Live Chat":10.993,"New Launches":11.674,"Customised products":16.549,"Terms and conditions":13.029
+};
+</script>
+<div class="row">
+<div class="col-lg-6 col-md-12 category-container">
+<div class="card">
+<div class="card-header"><p>Tags</p></div>
+<div class="card-body pb-0 pt-0"><table class="table table-sm table-bordered">
+<thead><tr class="bg-gray"><th>Name</th><th>Passed</th><th>Failed</th><th>Skipped</th><th>Others</th><th>Passed %</th></tr></thead><tbody>
+<tr>
+<td>@Unit</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>@sanity</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>@Integratiuon</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>@Integration</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>@Regression</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>@Sanity</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>@unit</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>@unit-test</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div>
+</div>
+</div>
+<script>
+var statusGroup = {
+parentCount: 5,
+passParent: 9,
+failParent: 0,
+warningParent: 0,
+skipParent: 0,
+childCount: 5,
+passChild: 9,
+failChild: 0,
+warningChild: 0,
+skipChild: 0,
+infoChild: 0,
+grandChildCount: 5,
+passGrandChild: 38,
+failGrandChild: 0,
+warningGrandChild: 0,
+skipGrandChild: 0,
+infoGrandChild: 0,
+eventsCount: 5,
+};
+</script>        </div>
+      </div>
+    </div>
+  </div>
+<script src="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@d6562a79075e061305ccfdb82f01e5e195e2d307/spark/js/spark-script.js"></script>
+<script type="text/javascript"></script></body>
+</html>

@@ -1,0 +1,365 @@
+[TRACE] 2022-07-29 17:44:52.396 [main] BaseClass - All methods are initialising 
+[FATAL] 2022-07-29 17:44:52.400 [main] BaseClass - Initialising all the methods at a time
+[WARN ] 2022-07-29 17:44:54.842 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-29 17:44:54.842 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-29 17:45:00.286 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-29 17:45:00.286 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-29 17:45:02.895 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-29 17:45:02.966 [main] BaseClass - calling the method
+[TRACE] 2022-07-29 17:45:03.682 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-29 17:45:04.550 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-29 17:45:04.551 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-29 17:45:06.182 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-29 17:45:06.183 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-29 17:45:14.907 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-29 17:45:14.908 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-29 17:45:16.845 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-29 17:45:17.544 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-29 17:45:18.443 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-29 17:45:18.443 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-29 17:45:20.063 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-29 17:45:20.063 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-29 17:45:27.036 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-29 17:45:27.037 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-29 17:45:28.971 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-29 17:45:32.731 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-29 17:45:33.669 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-29 17:45:33.669 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-29 17:45:35.300 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-29 17:45:35.301 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-29 17:45:38.996 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-29 17:45:38.996 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-29 17:45:41.790 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-29 17:45:42.996 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-29 17:45:43.821 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-29 17:45:43.821 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-29 17:45:45.329 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-29 17:45:45.329 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-29 17:45:49.772 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-29 17:45:49.772 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-29 17:45:52.011 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-29 17:45:53.821 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-29 17:45:54.702 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-29 17:45:54.702 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-29 17:45:56.354 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-29 17:45:56.354 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-29 17:46:02.454 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-29 17:46:02.455 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-29 17:46:04.178 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-29 17:46:04.867 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-29 17:46:05.703 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-29 17:46:05.704 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-29 17:46:07.285 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-29 17:46:07.285 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-29 17:46:13.682 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-29 17:46:13.683 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-29 17:46:16.108 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-29 17:46:16.554 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-29 17:46:17.392 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-29 17:46:17.392 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-29 17:46:19.034 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-29 17:46:19.034 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-29 17:46:24.560 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-29 17:46:24.560 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-29 17:46:27.195 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-29 17:46:33.092 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-29 17:46:33.953 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-29 17:46:33.953 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-29 17:46:35.536 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-29 17:46:35.536 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-29 17:46:40.920 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-29 17:46:40.920 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-29 17:46:44.337 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-29 17:46:46.067 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-29 17:46:46.989 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-29 17:46:46.989 [main] BaseClass - Closing the browser
+[TRACE] 2022-07-30 00:53:36.219 [main] BaseClass - All methods are initialising 
+[FATAL] 2022-07-30 00:53:36.223 [main] BaseClass - Initialising all the methods at a time
+[WARN ] 2022-07-30 00:53:38.882 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 00:53:38.883 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 00:53:45.283 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 00:53:45.283 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 00:53:47.527 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-30 00:53:47.560 [main] BaseClass - calling the method
+[FATAL] 2022-07-30 00:53:48.142 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:53:48.142 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 00:53:49.046 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 00:53:49.046 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 00:53:50.785 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 00:53:50.785 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 00:53:55.128 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 00:53:55.128 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 00:53:57.348 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 00:53:58.354 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:53:58.356 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 00:53:59.252 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 00:53:59.252 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 00:54:00.951 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 00:54:00.952 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 00:54:05.528 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 00:54:05.530 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 00:54:07.722 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 00:54:10.786 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:54:10.789 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 00:54:11.704 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 00:54:11.704 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 00:54:13.370 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 00:54:13.370 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 00:54:16.156 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 00:54:16.156 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 00:54:18.272 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 00:54:19.394 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:54:19.394 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 00:54:20.280 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 00:54:20.280 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 00:54:21.989 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 00:54:21.989 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 00:54:24.796 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 00:54:24.797 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 00:54:27.148 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 00:54:28.712 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:54:28.712 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 00:54:29.530 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 00:54:29.530 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 00:54:31.228 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 00:54:31.229 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 00:54:34.096 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 00:54:34.096 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 00:54:36.276 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 00:54:36.741 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:54:36.741 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 00:54:37.600 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 00:54:37.600 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 00:54:39.291 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 00:54:39.291 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 00:54:44.238 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 00:54:44.238 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 00:54:46.544 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 00:54:47.032 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:54:47.033 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 00:54:47.942 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 00:54:47.942 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 00:54:49.708 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 00:54:49.708 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 00:54:52.846 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 00:54:52.847 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 00:54:54.697 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 00:55:02.491 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:55:02.491 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 00:55:03.380 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 00:55:03.380 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 00:55:05.110 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 00:55:05.110 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 00:55:08.042 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 00:55:08.042 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 00:55:10.343 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 00:55:11.827 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:55:11.828 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 00:55:12.683 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 00:55:12.683 [main] BaseClass - Closing the browser
+[TRACE] 2022-07-30 13:45:57.803 [main] BaseClass - All methods are initialising 
+[FATAL] 2022-07-30 13:45:57.808 [main] BaseClass - Initialising all the methods at a time
+[WARN ] 2022-07-30 13:46:00.694 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:46:00.695 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:46:09.136 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:46:09.137 [main] BaseClass - Causing null pointer while navigate to the homePage
+[WARN ] 2022-07-30 13:46:10.006 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:46:10.006 [main] BaseClass - Closing the browser
+[TRACE] 2022-07-30 13:49:21.031 [main] BaseClass - All methods are initialising 
+[FATAL] 2022-07-30 13:49:21.036 [main] BaseClass - Initialising all the methods at a time
+[WARN ] 2022-07-30 13:49:24.289 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:49:24.289 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:49:35.144 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:49:35.145 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:49:37.488 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-30 13:54:25.807 [main] BaseClass - All methods are initialising 
+[FATAL] 2022-07-30 13:54:25.812 [main] BaseClass - Initialising all the methods at a time
+[WARN ] 2022-07-30 13:54:28.766 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:54:28.767 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:54:34.370 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:54:34.371 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:54:37.117 [main] BaseClass - Training to close popUp
+[WARN ] 2022-07-30 13:54:41.186 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:54:41.187 [main] BaseClass - Closing the browser
+[TRACE] 2022-07-30 13:56:31.922 [main] BaseClass - All methods are initialising 
+[FATAL] 2022-07-30 13:56:31.927 [main] BaseClass - Initialising all the methods at a time
+[WARN ] 2022-07-30 13:56:34.532 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:56:34.533 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:56:42.039 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:56:42.040 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:56:43.905 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-30 13:56:43.937 [main] BaseClass - calling the method
+[FATAL] 2022-07-30 13:56:44.458 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:56:44.458 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 13:56:45.366 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:56:45.366 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 13:56:47.030 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:56:47.032 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:56:53.262 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:56:53.262 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:56:55.508 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 13:56:56.514 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:56:56.515 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 13:56:57.431 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:56:57.431 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 13:56:59.133 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:56:59.134 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:57:03.769 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:57:03.769 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:57:06.265 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 13:57:10.626 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:57:10.626 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 13:57:11.565 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:57:11.565 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 13:57:13.230 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:57:13.231 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:57:16.675 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:57:16.675 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:57:18.736 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 13:57:19.673 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:57:19.674 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 13:57:20.607 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:57:20.607 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 13:57:22.389 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:57:22.390 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:57:25.758 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:57:25.758 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:57:28.044 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 13:57:30.999 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:57:30.999 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 13:57:32.077 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:57:32.077 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 13:57:34.000 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:57:34.001 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:57:37.638 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:57:37.642 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:57:39.944 [main] BaseClass - Training to close popUp
+[WARN ] 2022-07-30 13:57:44.037 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:57:44.037 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 13:57:45.826 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:57:45.826 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:57:49.971 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:57:49.972 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:57:52.243 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 13:57:52.663 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:57:52.663 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 13:57:53.568 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:57:53.568 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 13:57:55.365 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:57:55.366 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:57:58.803 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:57:58.804 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:58:00.904 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 13:58:01.428 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:58:01.429 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 13:58:02.400 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:58:02.400 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 13:58:04.262 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:58:04.262 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:58:08.429 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:58:08.429 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:58:10.838 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 13:58:17.360 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:58:17.360 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 13:58:18.279 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:58:18.279 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 13:58:19.990 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 13:58:19.991 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 13:58:24.691 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 13:58:24.692 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 13:58:26.915 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 13:58:28.883 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:58:28.883 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 13:58:29.816 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 13:58:29.816 [main] BaseClass - Closing the browser
+[TRACE] 2022-07-30 14:00:57.972 [main] BaseClass - All methods are initialising 
+[FATAL] 2022-07-30 14:00:57.975 [main] BaseClass - Initialising all the methods at a time
+[WARN ] 2022-07-30 14:01:00.508 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 14:01:00.509 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 14:01:03.670 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 14:01:03.671 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 14:01:06.229 [main] BaseClass - Training to close popUp
+[TRACE] 2022-07-30 14:01:06.274 [main] BaseClass - calling the method
+[FATAL] 2022-07-30 14:01:06.943 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 14:01:06.943 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 14:01:07.834 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 14:01:07.834 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 14:01:09.455 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 14:01:09.456 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 14:01:12.410 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 14:01:12.411 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 14:01:14.801 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 14:01:15.760 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 14:01:15.760 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 14:01:16.695 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 14:01:16.695 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 14:01:18.365 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 14:01:18.366 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 14:01:20.701 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 14:01:20.702 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 14:01:23.132 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 14:01:26.346 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 14:01:26.346 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 14:01:27.257 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 14:01:27.258 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 14:01:29.037 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 14:01:29.037 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 14:01:33.933 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 14:01:33.933 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 14:01:36.025 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 14:01:37.559 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 14:01:37.559 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 14:01:38.513 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 14:01:38.513 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 14:01:40.197 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 14:01:40.198 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 14:01:45.387 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 14:01:45.388 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 14:01:47.199 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 14:01:49.182 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 14:01:49.182 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 14:01:50.127 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 14:01:50.127 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 14:01:51.834 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 14:01:51.834 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 14:01:56.750 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 14:01:56.751 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 14:01:58.909 [main] BaseClass - Training to close popUp
+[WARN ] 2022-07-30 14:02:07.859 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 14:02:07.859 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 14:02:09.523 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 14:02:09.524 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 14:02:12.532 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 14:02:12.533 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 14:02:15.082 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 14:02:15.455 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 14:02:15.455 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 14:02:16.304 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 14:02:16.304 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 14:02:18.079 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 14:02:18.080 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 14:02:21.365 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 14:02:21.366 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 14:02:23.666 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 14:02:24.191 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 14:02:24.191 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 14:02:25.113 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 14:02:25.113 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 14:02:26.928 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 14:02:26.928 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 14:02:32.193 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 14:02:32.193 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 14:02:34.426 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 14:02:40.466 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 14:02:40.466 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 14:02:41.337 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 14:02:41.337 [main] BaseClass - Closing the browser
+[WARN ] 2022-07-30 14:02:42.881 [main] BaseClass - Driver invoked 
+[FATAL] 2022-07-30 14:02:42.882 [main] BaseClass - initializing the Browser
+[FATAL] 2022-07-30 14:02:46.293 [main] BaseClass - Navigating to that url
+[ERROR] 2022-07-30 14:02:46.293 [main] BaseClass - Causing null pointer while navigate to the homePage
+[FATAL] 2022-07-30 14:02:48.202 [main] BaseClass - Training to close popUp
+[FATAL] 2022-07-30 14:02:50.185 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 14:02:50.185 [main] BaseClass - Excuted sucessfully
+[WARN ] 2022-07-30 14:02:51.099 [main] BaseClass - Driver Closed 
+[DEBUG] 2022-07-30 14:02:51.099 [main] BaseClass - Closing the browser

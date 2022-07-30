@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="18" total="28" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-30T13:08:53 IST" name="Suite" finished-at="2022-07-30T13:11:02 IST" duration-ms="128863">
+    <groups>
+    </groups>
+    <test started-at="2022-07-30T13:08:53 IST" name="Test" finished-at="2022-07-30T13:11:02 IST" duration-ms="128863">
+      <class name="runner.TideLiveChatPageTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:runner.TideLiveChatPageTest@3b2c0e88]" started-at="2022-07-30T13:10:52 IST" name="openBrowser" finished-at="2022-07-30T13:10:57 IST" duration-ms="5047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="chatWithSupport(java.lang.reflect.Method)[pri:0, instance:runner.TideLiveChatPageTest@3b2c0e88]" started-at="2022-07-30T13:10:57 IST" name="chatWithSupport" finished-at="2022-07-30T13:11:00 IST" duration-ms="3117" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void runner.TideLiveChatPageTest.chatWithSupport(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chatWithSupport -->
+        <test-method is-config="true" signature="validateTests(org.testng.ITestResult)[pri:0, instance:runner.TideLiveChatPageTest@3b2c0e88]" started-at="2022-07-30T13:11:00 IST" name="validateTests" finished-at="2022-07-30T13:11:01 IST" duration-ms="903" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=chatWithSupport status=SUCCESS method=TideLiveChatPageTest.chatWithSupport(java.lang.reflect.Method)[pri:0, instance:runner.TideLiveChatPageTest@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:runner.TideLiveChatPageTest@3b2c0e88]" started-at="2022-07-30T13:11:01 IST" name="tearDown" finished-at="2022-07-30T13:11:02 IST" duration-ms="948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runner.TideLiveChatPageTest -->
+      <class name="runner.TideCoupnAndrRewardTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:runner.TideCoupnAndrRewardTest@4212a0c8]" started-at="2022-07-30T13:10:25 IST" name="openBrowser" finished-at="2022-07-30T13:10:33 IST" duration-ms="8020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="rewadsTest(java.lang.reflect.Method)[pri:0, instance:runner.TideCoupnAndrRewardTest@4212a0c8]" started-at="2022-07-30T13:10:33 IST" name="rewadsTest" finished-at="2022-07-30T13:10:39 IST" duration-ms="5686" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void runner.TideCoupnAndrRewardTest.rewadsTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rewadsTest -->
+        <test-method is-config="true" signature="validateTests(org.testng.ITestResult)[pri:0, instance:runner.TideCoupnAndrRewardTest@4212a0c8]" started-at="2022-07-30T13:10:39 IST" name="validateTests" finished-at="2022-07-30T13:10:40 IST" duration-ms="689" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=rewadsTest status=SUCCESS method=TideCoupnAndrRewardTest.rewadsTest(java.lang.reflect.Method)[pri:0, instance:runner.TideCoupnAndrRewardTest@4212a0c8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:runner.TideCoupnAndrRewardTest@4212a0c8]" started-at="2022-07-30T13:10:40 IST" name="tearDown" finished-at="2022-07-30T13:10:41 IST" duration-ms="1254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runner.TideCoupnAndrRewardTest -->
+      <class name="runner.TideInoWashPageTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:runner.TideInoWashPageTest@66b7550d]" started-at="2022-07-30T13:09:33 IST" name="openBrowser" finished-at="2022-07-30T13:09:38 IST" duration-ms="5718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="RemoveStains(java.lang.reflect.Method)[pri:0, instance:runner.TideInoWashPageTest@66b7550d]" started-at="2022-07-30T13:09:38 IST" name="RemoveStains" finished-at="2022-07-30T13:09:42 IST" duration-ms="4023" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void runner.TideInoWashPageTest.RemoveStains(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveStains -->
+        <test-method is-config="true" signature="validateTests(org.testng.ITestResult)[pri:0, instance:runner.TideInoWashPageTest@66b7550d]" started-at="2022-07-30T13:09:42 IST" name="validateTests" finished-at="2022-07-30T13:09:43 IST" duration-ms="291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RemoveStains status=SUCCESS method=TideInoWashPageTest.RemoveStains(java.lang.reflect.Method)[pri:0, instance:runner.TideInoWashPageTest@66b7550d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:runner.TideInoWashPageTest@66b7550d]" started-at="2022-07-30T13:09:43 IST" name="tearDown" finished-at="2022-07-30T13:09:44 IST" duration-ms="956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runner.TideInoWashPageTest -->
+      <class name="runner.TideProductTypeTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:runner.TideProductTypeTest@7c541c15]" started-at="2022-07-30T13:09:55 IST" name="openBrowser" finished-at="2022-07-30T13:10:00 IST" duration-ms="5343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="productTest(java.lang.reflect.Method)[pri:0, instance:runner.TideProductTypeTest@7c541c15]" started-at="2022-07-30T13:10:00 IST" name="productTest" finished-at="2022-07-30T13:10:03 IST" duration-ms="3175" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void runner.TideProductTypeTest.productTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productTest -->
+        <test-method is-config="true" signature="validateTests(org.testng.ITestResult)[pri:0, instance:runner.TideProductTypeTest@7c541c15]" started-at="2022-07-30T13:10:03 IST" name="validateTests" finished-at="2022-07-30T13:10:04 IST" duration-ms="364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productTest status=SUCCESS method=TideProductTypeTest.productTest(java.lang.reflect.Method)[pri:0, instance:runner.TideProductTypeTest@7c541c15] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:runner.TideProductTypeTest@7c541c15]" started-at="2022-07-30T13:10:04 IST" name="tearDown" finished-at="2022-07-30T13:10:04 IST" duration-ms="949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runner.TideProductTypeTest -->
+      <class name="runner.TideNewLaunchTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:runner.TideNewLaunchTest@1e7aa82b]" started-at="2022-07-30T13:10:41 IST" name="openBrowser" finished-at="2022-07-30T13:10:48 IST" duration-ms="6961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="newLaunch(java.lang.reflect.Method)[pri:0, instance:runner.TideNewLaunchTest@1e7aa82b]" started-at="2022-07-30T13:10:48 IST" name="newLaunch" finished-at="2022-07-30T13:10:51 IST" duration-ms="2886" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void runner.TideNewLaunchTest.newLaunch(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newLaunch -->
+        <test-method is-config="true" signature="validateTests(org.testng.ITestResult)[pri:0, instance:runner.TideNewLaunchTest@1e7aa82b]" started-at="2022-07-30T13:10:51 IST" name="validateTests" finished-at="2022-07-30T13:10:51 IST" duration-ms="355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newLaunch status=SUCCESS method=TideNewLaunchTest.newLaunch(java.lang.reflect.Method)[pri:0, instance:runner.TideNewLaunchTest@1e7aa82b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:runner.TideNewLaunchTest@1e7aa82b]" started-at="2022-07-30T13:10:51 IST" name="tearDown" finished-at="2022-07-30T13:10:52 IST" duration-ms="967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runner.TideNewLaunchTest -->
+      <class name="runner.TideCommitmentTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:runner.TideCommitmentTest@3543df7d]" started-at="2022-07-30T13:09:44 IST" name="openBrowser" finished-at="2022-07-30T13:09:49 IST" duration-ms="5728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="commitment(java.lang.reflect.Method)[pri:0, instance:runner.TideCommitmentTest@3543df7d]" started-at="2022-07-30T13:09:49 IST" name="commitment" finished-at="2022-07-30T13:09:53 IST" duration-ms="3424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void runner.TideCommitmentTest.commitment(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commitment -->
+        <test-method is-config="true" signature="validateTests(org.testng.ITestResult)[pri:0, instance:runner.TideCommitmentTest@3543df7d]" started-at="2022-07-30T13:09:53 IST" name="validateTests" finished-at="2022-07-30T13:09:54 IST" duration-ms="851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=commitment status=SUCCESS method=TideCommitmentTest.commitment(java.lang.reflect.Method)[pri:0, instance:runner.TideCommitmentTest@3543df7d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:runner.TideCommitmentTest@3543df7d]" started-at="2022-07-30T13:09:54 IST" name="tearDown" finished-at="2022-07-30T13:09:55 IST" duration-ms="972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runner.TideCommitmentTest -->
+      <class name="runner.TideProductsPageTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:runner.TideProductsPageTest@2ccca26f]" started-at="2022-07-30T13:09:13 IST" name="openBrowser" finished-at="2022-07-30T13:09:20 IST" duration-ms="6771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="productsTest(java.lang.reflect.Method)[pri:0, instance:runner.TideProductsPageTest@2ccca26f]" started-at="2022-07-30T13:09:20 IST" name="productsTest" finished-at="2022-07-30T13:09:32 IST" duration-ms="11996" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void runner.TideProductsPageTest.productsTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productsTest -->
+        <test-method is-config="true" signature="validateTests(org.testng.ITestResult)[pri:0, instance:runner.TideProductsPageTest@2ccca26f]" started-at="2022-07-30T13:09:32 IST" name="validateTests" finished-at="2022-07-30T13:09:32 IST" duration-ms="228" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productsTest status=SUCCESS method=TideProductsPageTest.productsTest(java.lang.reflect.Method)[pri:0, instance:runner.TideProductsPageTest@2ccca26f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:runner.TideProductsPageTest@2ccca26f]" started-at="2022-07-30T13:09:32 IST" name="tearDown" finished-at="2022-07-30T13:09:33 IST" duration-ms="951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runner.TideProductsPageTest -->
+      <class name="runner.TideSearchFunctionTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:runner.TideSearchFunctionTest@6b44435b]" started-at="2022-07-30T13:08:53 IST" name="initialize" finished-at="2022-07-30T13:08:53 IST" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:runner.TideSearchFunctionTest@6b44435b]" started-at="2022-07-30T13:08:53 IST" name="openBrowser" finished-at="2022-07-30T13:09:03 IST" duration-ms="9853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="productSearch(java.lang.reflect.Method)[pri:0, instance:runner.TideSearchFunctionTest@6b44435b]" started-at="2022-07-30T13:09:03 IST" name="productSearch" finished-at="2022-07-30T13:09:12 IST" duration-ms="8347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void runner.TideSearchFunctionTest.productSearch(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSearch -->
+        <test-method is-config="true" signature="validateTests(org.testng.ITestResult)[pri:0, instance:runner.TideSearchFunctionTest@6b44435b]" started-at="2022-07-30T13:09:12 IST" name="validateTests" finished-at="2022-07-30T13:09:12 IST" duration-ms="296" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productSearch status=SUCCESS method=TideSearchFunctionTest.productSearch(java.lang.reflect.Method)[pri:0, instance:runner.TideSearchFunctionTest@6b44435b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:runner.TideSearchFunctionTest@6b44435b]" started-at="2022-07-30T13:09:12 IST" name="tearDown" finished-at="2022-07-30T13:09:13 IST" duration-ms="889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:runner.TideSearchFunctionTest@6b44435b]" started-at="2022-07-30T13:11:02 IST" name="quit" finished-at="2022-07-30T13:11:03 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- runner.TideSearchFunctionTest -->
+      <class name="runner.TideArticleTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:runner.TideArticleTest@698122b2]" started-at="2022-07-30T13:10:15 IST" name="openBrowser" finished-at="2022-07-30T13:10:21 IST" duration-ms="5330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="article(java.lang.reflect.Method)[pri:0, instance:runner.TideArticleTest@698122b2]" started-at="2022-07-30T13:10:21 IST" name="article" finished-at="2022-07-30T13:10:24 IST" duration-ms="3177" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void runner.TideArticleTest.article(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- article -->
+        <test-method is-config="true" signature="validateTests(org.testng.ITestResult)[pri:0, instance:runner.TideArticleTest@698122b2]" started-at="2022-07-30T13:10:24 IST" name="validateTests" finished-at="2022-07-30T13:10:24 IST" duration-ms="356" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=article status=SUCCESS method=TideArticleTest.article(java.lang.reflect.Method)[pri:0, instance:runner.TideArticleTest@698122b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:runner.TideArticleTest@698122b2]" started-at="2022-07-30T13:10:24 IST" name="tearDown" finished-at="2022-07-30T13:10:25 IST" duration-ms="1056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runner.TideArticleTest -->
+      <class name="runner.TideTandCTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:runner.TideTandCTest@3542162a]" started-at="2022-07-30T13:10:04 IST" name="openBrowser" finished-at="2022-07-30T13:10:10 IST" duration-ms="6000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="termsCon(java.lang.reflect.Method)[pri:0, instance:runner.TideTandCTest@3542162a]" started-at="2022-07-30T13:10:10 IST" name="termsCon" finished-at="2022-07-30T13:10:14 IST" duration-ms="3712" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void runner.TideTandCTest.termsCon(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- termsCon -->
+        <test-method is-config="true" signature="validateTests(org.testng.ITestResult)[pri:0, instance:runner.TideTandCTest@3542162a]" started-at="2022-07-30T13:10:14 IST" name="validateTests" finished-at="2022-07-30T13:10:14 IST" duration-ms="267" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=termsCon status=SUCCESS method=TideTandCTest.termsCon(java.lang.reflect.Method)[pri:0, instance:runner.TideTandCTest@3542162a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:runner.TideTandCTest@3542162a]" started-at="2022-07-30T13:10:14 IST" name="tearDown" finished-at="2022-07-30T13:10:15 IST" duration-ms="962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runner.TideTandCTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

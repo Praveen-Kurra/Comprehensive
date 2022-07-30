@@ -1,0 +1,667 @@
+[INFO ] 2022-07-27 22:11:44.395 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-27 22:11:44.618 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:12:11.668 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-27 22:12:19.223 [main] BaseClass - productSearch::excecuted sucessfully
+[INFO ] 2022-07-27 22:12:19.227 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:12:19.463 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:12:20.275 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:12:20.278 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:12:39.614 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-27 22:13:07.524 [main] BaseClass - productsTest::excecuted sucessfully
+[INFO ] 2022-07-27 22:13:07.528 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:13:07.808 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:13:08.641 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:13:08.642 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:13:30.920 [main] BaseClass - RemoveStains ::invoked 
+[INFO ] 2022-07-27 22:13:35.381 [main] BaseClass - RemoveStains::excecuted sucessfully
+[INFO ] 2022-07-27 22:13:35.382 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:13:35.609 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:13:36.438 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:13:36.439 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:13:56.557 [main] BaseClass - commitment ::invoked 
+[INFO ] 2022-07-27 22:13:59.655 [main] BaseClass - commitment::excecuted sucessfully
+[INFO ] 2022-07-27 22:13:59.657 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:13:59.904 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:14:00.724 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:14:00.725 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:14:16.836 [main] BaseClass - productTest ::invoked 
+[INFO ] 2022-07-27 22:14:21.783 [main] BaseClass - productTest::excecuted sucessfully
+[INFO ] 2022-07-27 22:14:21.784 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:14:22.038 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:14:22.836 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:14:22.837 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:14:42.120 [main] BaseClass - termsCon ::invoked 
+[INFO ] 2022-07-27 22:14:51.068 [main] BaseClass - termsCon::excecuted sucessfully
+[INFO ] 2022-07-27 22:14:51.070 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:14:51.271 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:14:52.101 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:14:52.102 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:15:04.071 [main] BaseClass - article ::invoked 
+[INFO ] 2022-07-27 22:15:06.895 [main] BaseClass - article::excecuted sucessfully
+[INFO ] 2022-07-27 22:15:06.897 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:15:07.091 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:15:07.928 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:15:07.929 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:15:22.325 [main] BaseClass - rewadsTest ::invoked 
+[INFO ] 2022-07-27 22:15:34.719 [main] BaseClass - rewadsTest::excecuted sucessfully
+[INFO ] 2022-07-27 22:15:34.723 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:15:35.346 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:15:36.262 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:15:36.263 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:15:53.784 [main] BaseClass - newLaunch ::invoked 
+[INFO ] 2022-07-27 22:15:57.335 [main] BaseClass - newLaunch::excecuted sucessfully
+[INFO ] 2022-07-27 22:15:57.337 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:15:57.650 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:15:58.520 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:15:58.520 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:16:15.246 [main] BaseClass - chatWithSupport ::invoked 
+[INFO ] 2022-07-27 22:16:17.961 [main] BaseClass - chatWithSupport::excecuted sucessfully
+[INFO ] 2022-07-27 22:16:17.963 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:16:18.192 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:16:19.017 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:16:19.438 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-27 22:20:27.899 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-27 22:20:28.135 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:21:09.105 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-27 22:21:32.915 [main] BaseClass - productSearch::excecuted sucessfully
+[INFO ] 2022-07-27 22:21:32.918 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:21:33.331 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:21:34.250 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:21:34.252 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:21:48.439 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-27 22:21:57.793 [main] BaseClass - productsTest::excecuted sucessfully
+[INFO ] 2022-07-27 22:21:57.794 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:21:58.000 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:21:58.861 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:21:58.862 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:22:09.247 [main] BaseClass - RemoveStains ::invoked 
+[INFO ] 2022-07-27 22:22:12.953 [main] BaseClass - RemoveStains::excecuted sucessfully
+[INFO ] 2022-07-27 22:22:12.954 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:22:13.167 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:22:14.043 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:22:14.043 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:22:24.260 [main] BaseClass - commitment ::invoked 
+[INFO ] 2022-07-27 22:22:27.167 [main] BaseClass - commitment::excecuted sucessfully
+[INFO ] 2022-07-27 22:22:27.168 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:22:27.438 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:22:28.300 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:22:28.301 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:22:38.560 [main] BaseClass - productTest ::invoked 
+[INFO ] 2022-07-27 22:22:41.369 [main] BaseClass - productTest::excecuted sucessfully
+[INFO ] 2022-07-27 22:22:41.370 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:22:41.628 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:22:42.470 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:22:42.471 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:22:49.803 [main] BaseClass - termsCon ::invoked 
+[INFO ] 2022-07-27 22:22:54.371 [main] BaseClass - termsCon::excecuted sucessfully
+[INFO ] 2022-07-27 22:22:54.372 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:22:54.573 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:22:55.416 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:22:55.416 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:23:02.116 [main] BaseClass - article ::invoked 
+[INFO ] 2022-07-27 22:23:04.773 [main] BaseClass - article::excecuted sucessfully
+[INFO ] 2022-07-27 22:23:04.774 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:23:04.994 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:23:05.867 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:23:05.868 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:23:15.290 [main] BaseClass - rewadsTest ::invoked 
+[INFO ] 2022-07-27 22:23:21.021 [main] BaseClass - rewadsTest::excecuted sucessfully
+[INFO ] 2022-07-27 22:23:21.023 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:23:21.535 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:23:22.516 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:23:22.516 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:23:31.642 [main] BaseClass - newLaunch ::invoked 
+[INFO ] 2022-07-27 22:23:33.980 [main] BaseClass - newLaunch::excecuted sucessfully
+[INFO ] 2022-07-27 22:23:33.980 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:23:34.253 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:23:35.085 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:23:35.086 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-27 22:23:50.341 [main] BaseClass - chatWithSupport ::invoked 
+[INFO ] 2022-07-27 22:23:52.841 [main] BaseClass - chatWithSupport::excecuted sucessfully
+[INFO ] 2022-07-27 22:23:52.841 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-27 22:23:53.053 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-27 22:23:53.924 [main] BaseClass - Browser closed
+[INFO ] 2022-07-27 22:23:54.294 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:04:57.860 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:04:58.094 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-29 23:05:08.856 [main] BaseClass - article ::invoked 
+[FATAL] 2022-07-29 23:05:11.449 [main] BaseClass - Scrolling down the window
+[TRACE] 2022-07-29 23:05:11.971 [main] BaseClass - article::excecuted sucessfully
+[INFO ] 2022-07-29 23:05:11.976 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:05:12.256 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:05:13.132 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:05:13.489 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:37:15.172 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:37:15.877 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-29 23:37:22.790 [main] BaseClass - article ::invoked 
+[FATAL] 2022-07-29 23:37:25.436 [main] BaseClass - Scrolling down the window
+[TRACE] 2022-07-29 23:37:26.060 [main] BaseClass - article::excecuted sucessfully
+[INFO ] 2022-07-29 23:37:26.064 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:37:26.339 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:37:27.165 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:37:27.536 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:40:10.935 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:40:11.663 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-29 23:40:18.160 [main] BaseClass - article ::invoked 
+[FATAL] 2022-07-29 23:40:20.915 [main] BaseClass - Scrolling down the window
+[FATAL] 2022-07-29 23:40:21.431 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-29 23:40:21.431 [main] BaseClass - article::excecuted sucessfully
+[INFO ] 2022-07-29 23:40:21.436 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:40:21.719 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:40:22.540 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:40:22.863 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:40:44.229 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:40:45.003 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-29 23:40:53.952 [main] BaseClass - commitment ::invoked 
+[FATAL] 2022-07-29 23:40:55.816 [main] BaseClass - Object was created 
+[TRACE] 2022-07-29 23:40:56.552 [main] BaseClass - commitment::excecuted sucessfully
+[INFO ] 2022-07-29 23:40:56.559 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:40:57.272 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:40:58.097 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:40:58.586 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:43:48.588 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:43:49.265 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-29 23:43:58.124 [main] BaseClass - commitment ::invoked 
+[FATAL] 2022-07-29 23:44:00.729 [main] BaseClass - Object was created 
+[FATAL] 2022-07-29 23:44:01.464 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-29 23:44:01.464 [main] BaseClass - commitment::excecuted sucessfully
+[INFO ] 2022-07-29 23:44:01.480 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:44:02.168 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:44:02.989 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:44:03.342 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:44:52.520 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:44:53.192 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-29 23:45:00.931 [main] BaseClass - rewadsTest ::invoked 
+[INFO ] 2022-07-29 23:45:03.515 [main] BaseClass - pageObjects.TideCoupnAndRewadPage created object for this class
+[FATAL] 2022-07-29 23:45:06.591 [main] BaseClass - rewadsTest::excecuted sucessfully
+[INFO ] 2022-07-29 23:45:06.598 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:45:07.168 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:45:08.040 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:45:08.399 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:46:26.518 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:46:27.205 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-29 23:46:32.366 [main] BaseClass - rewadsTest ::invoked 
+[INFO ] 2022-07-29 23:46:35.479 [main] BaseClass - pageObjects.TideCoupnAndRewadPage created object for this class
+[INFO ] 2022-07-29 23:46:38.479 [main] BaseClass - Validtaing the Test @Before Suite
+[WARN ] 2022-07-29 23:46:38.933 [main] BaseClass - Validation failed
+[INFO ] 2022-07-29 23:46:39.806 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:46:40.148 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:47:44.199 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:47:44.870 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-29 23:47:54.521 [main] BaseClass - rewadsTest ::invoked 
+[INFO ] 2022-07-29 23:47:57.938 [main] BaseClass - pageObjects.TideCoupnAndRewadPage created object for this class
+[INFO ] 2022-07-29 23:48:00.948 [main] BaseClass - Validtaing the Test @Before Suite
+[WARN ] 2022-07-29 23:48:01.404 [main] BaseClass - Validation failed
+[INFO ] 2022-07-29 23:48:02.265 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:48:02.628 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:50:39.177 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:50:39.894 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-29 23:50:48.451 [main] BaseClass - rewadsTest ::invoked 
+[INFO ] 2022-07-29 23:50:50.813 [main] BaseClass - pageObjects.TideCoupnAndRewadPage created object for this class
+[FATAL] 2022-07-29 23:50:53.673 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-29 23:50:53.674 [main] BaseClass - rewadsTest::excecuted sucessfully
+[INFO ] 2022-07-29 23:50:53.682 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:50:54.199 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:50:55.102 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:50:55.435 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:51:12.635 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:51:13.313 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-29 23:51:19.966 [main] BaseClass - RemoveStains ::invoked 
+[INFO ] 2022-07-29 23:51:21.860 [main] BaseClass - pageObjects.TideInfoAbtWashPage Was invoking the method
+[FATAL] 2022-07-29 23:51:23.398 [main] BaseClass - RemoveStains::excecuted sucessfully
+[INFO ] 2022-07-29 23:51:23.403 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:51:23.874 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:51:24.676 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:51:25.057 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:52:45.518 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:52:46.203 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-29 23:52:51.720 [main] BaseClass - RemoveStains ::invoked 
+[INFO ] 2022-07-29 23:52:53.750 [main] BaseClass - pageObjects.TideInfoAbtWashPage Was invoking the method
+[FATAL] 2022-07-29 23:52:55.399 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-29 23:52:55.399 [main] BaseClass - RemoveStains::excecuted sucessfully
+[INFO ] 2022-07-29 23:52:55.406 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:52:55.881 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:52:56.717 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:52:57.066 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:54:06.806 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:54:07.644 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-29 23:54:15.951 [main] BaseClass - chatWithSupport ::invoked 
+[INFO ] 2022-07-29 23:54:17.996 [main] BaseClass - pageObjects.TideLiveChatPagecreated object for this class
+[DEBUG] 2022-07-29 23:54:18.372 [main] BaseClass - chatWithSupport::excecuted sucessfully
+[INFO ] 2022-07-29 23:54:18.376 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:54:19.037 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:54:19.881 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:54:20.230 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:56:14.194 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:56:14.916 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-29 23:56:20.053 [main] BaseClass - chatWithSupport ::invoked 
+[INFO ] 2022-07-29 23:56:21.971 [main] BaseClass - pageObjects.TideLiveChatPagecreated object for this class
+[FATAL] 2022-07-29 23:56:22.350 [main] BaseClass - Assertion passes
+[DEBUG] 2022-07-29 23:56:22.350 [main] BaseClass - chatWithSupport::excecuted sucessfully
+[INFO ] 2022-07-29 23:56:22.354 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:56:23.013 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:56:23.847 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:56:24.190 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:56:42.042 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:56:42.724 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-29 23:56:47.658 [main] BaseClass - newLaunch ::invoked 
+[INFO ] 2022-07-29 23:56:49.832 [main] BaseClass - pageObjects.TideNewLaunchesPagecreated object for this class
+[TRACE] 2022-07-29 23:56:50.295 [main] BaseClass - newLaunch::excecuted sucessfully
+[INFO ] 2022-07-29 23:56:50.300 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:56:50.651 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:56:51.457 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:56:51.774 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:57:49.760 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:57:50.416 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-29 23:57:57.688 [main] BaseClass - newLaunch ::invoked 
+[INFO ] 2022-07-29 23:57:59.593 [main] BaseClass - pageObjects.TideNewLaunchesPagecreated object for this class
+[FATAL] 2022-07-29 23:58:00.057 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-29 23:58:00.057 [main] BaseClass - newLaunch::excecuted sucessfully
+[INFO ] 2022-07-29 23:58:00.064 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:58:00.402 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:58:01.215 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:58:01.540 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:58:18.730 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:58:19.392 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-29 23:58:24.410 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-29 23:58:26.124 [main] BaseClass - pageObjects.TideShopProductsPagecreated object for this class
+[TRACE] 2022-07-29 23:58:32.181 [main] BaseClass - productsTest::excecuted sucessfully
+[INFO ] 2022-07-29 23:58:32.186 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-29 23:58:32.511 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-29 23:58:33.713 [main] BaseClass - Browser closed
+[INFO ] 2022-07-29 23:58:34.096 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-29 23:59:56.995 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-29 23:59:57.708 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:00:05.420 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-30 00:00:07.323 [main] BaseClass - pageObjects.TideShopProductsPagecreated object for this class
+[INFO ] 2022-07-30 00:00:12.600 [main] BaseClass - Validtaing the Test @Before Suite
+[WARN ] 2022-07-30 00:00:12.846 [main] BaseClass - Validation failed
+[INFO ] 2022-07-30 00:00:13.689 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:00:14.044 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:00:40.115 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:00:40.804 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:00:45.973 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-30 00:00:48.176 [main] BaseClass - pageObjects.TideShopProductsPagecreated object for this class
+[INFO ] 2022-07-30 00:00:52.918 [main] BaseClass - Validtaing the Test @Before Suite
+[WARN ] 2022-07-30 00:00:53.152 [main] BaseClass - Validation failed
+[INFO ] 2022-07-30 00:00:53.975 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:00:54.307 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:03:15.074 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:03:15.778 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:03:23.172 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-30 00:03:25.065 [main] BaseClass - pageObjects.TideShopProductsPagecreated object for this class
+[INFO ] 2022-07-30 00:03:30.351 [main] BaseClass - Validtaing the Test @Before Suite
+[WARN ] 2022-07-30 00:03:30.704 [main] BaseClass - Validation failed
+[INFO ] 2022-07-30 00:03:31.960 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:03:32.318 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:05:55.890 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:05:56.578 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:06:04.105 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-30 00:06:05.999 [main] BaseClass - pageObjects.TideShopProductsPagecreated object for this class
+[FATAL] 2022-07-30 00:06:11.358 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:06:11.359 [main] BaseClass - productsTest::excecuted sucessfully
+[INFO ] 2022-07-30 00:06:11.362 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:06:11.581 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:06:12.362 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:06:12.686 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:07:15.953 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:07:16.655 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:07:21.788 [main] BaseClass - productTest ::invoked 
+[INFO ] 2022-07-30 00:07:23.895 [main] BaseClass - pageObjects.TideProductsTypePageCreated onject for this class
+[TRACE] 2022-07-30 00:07:25.010 [main] BaseClass - productTest::excecuted sucessfully
+[INFO ] 2022-07-30 00:07:25.019 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:07:25.321 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:07:26.135 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:07:26.471 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:08:08.784 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:08:09.451 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:08:16.416 [main] BaseClass - productTest ::invoked 
+[INFO ] 2022-07-30 00:08:18.300 [main] BaseClass - pageObjects.TideProductsTypePageCreated onject for this class
+[INFO ] 2022-07-30 00:08:19.114 [main] BaseClass - Validtaing the Test @Before Suite
+[WARN ] 2022-07-30 00:08:19.433 [main] BaseClass - Validation failed
+[INFO ] 2022-07-30 00:08:20.287 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:08:20.639 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:08:54.000 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:08:54.669 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:09:02.342 [main] BaseClass - productTest ::invoked 
+[INFO ] 2022-07-30 00:09:04.356 [main] BaseClass - pageObjects.TideProductsTypePageCreated onject for this class
+[FATAL] 2022-07-30 00:09:05.121 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:09:05.121 [main] BaseClass - productTest::excecuted sucessfully
+[INFO ] 2022-07-30 00:09:05.126 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:09:05.516 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:09:06.357 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:09:06.686 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:09:25.213 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:09:25.878 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:09:30.699 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-30 00:09:33.084 [main] BaseClass - pageObjects.TideSearchPageMethod was invoking 
+[FATAL] 2022-07-30 00:09:49.513 [main] BaseClass - productSearch::excecuted sucessfully
+[INFO ] 2022-07-30 00:09:49.520 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:09:49.845 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:09:50.683 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:09:51.026 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:10:58.858 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:10:59.555 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:11:04.706 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-30 00:11:06.993 [main] BaseClass - pageObjects.TideSearchPageMethod was invoking 
+[FATAL] 2022-07-30 00:11:18.283 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 00:11:18.283 [main] BaseClass - productSearch::excecuted sucessfully
+[INFO ] 2022-07-30 00:11:18.294 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:11:18.569 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:11:19.428 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:11:19.755 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:11:26.888 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:11:27.572 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:11:32.559 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-30 00:11:34.756 [main] BaseClass - pageObjects.TideSearchPageMethod was invoking 
+[FATAL] 2022-07-30 00:11:38.357 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 00:11:38.358 [main] BaseClass - productSearch::excecuted sucessfully
+[INFO ] 2022-07-30 00:11:38.364 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:11:40.255 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:11:41.069 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:11:41.410 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:15:51.168 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:15:51.837 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:15:59.659 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-30 00:16:01.907 [main] BaseClass - pageObjects.TideSearchPageMethod was invoking 
+[FATAL] 2022-07-30 00:16:07.446 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 00:16:07.446 [main] BaseClass - productSearch::excecuted sucessfully
+[INFO ] 2022-07-30 00:16:07.451 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:16:07.792 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:16:08.669 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:16:09.011 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:20:27.389 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:20:28.098 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:20:35.702 [main] BaseClass - termsCon ::invoked 
+[DEBUG] 2022-07-30 00:20:39.868 [main] BaseClass - termsCon::excecuted sucessfully
+[INFO ] 2022-07-30 00:20:39.877 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:20:40.184 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:20:41.046 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:20:41.417 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:21:26.714 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:21:27.544 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:21:35.428 [main] BaseClass - termsCon ::invoked 
+[INFO ] 2022-07-30 00:21:39.535 [main] BaseClass - Validtaing the Test @Before Suite
+[WARN ] 2022-07-30 00:21:39.808 [main] BaseClass - Validation failed
+[INFO ] 2022-07-30 00:21:40.708 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:21:41.085 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:21:54.274 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:21:54.991 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:22:01.965 [main] BaseClass - termsCon ::invoked 
+[FATAL] 2022-07-30 00:22:05.734 [main] BaseClass - Assertion passes
+[DEBUG] 2022-07-30 00:22:05.734 [main] BaseClass - termsCon::excecuted sucessfully
+[INFO ] 2022-07-30 00:22:05.740 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:22:05.983 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:22:06.883 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:22:07.246 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 00:23:04.258 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 00:23:04.991 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:23:09.737 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-30 00:23:12.266 [main] BaseClass - pageObjects.TideSearchPageMethod was invoking 
+[FATAL] 2022-07-30 00:23:17.754 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 00:23:17.754 [main] BaseClass - productSearch::excecuted sucessfully
+[INFO ] 2022-07-30 00:23:17.761 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:23:18.078 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:23:18.928 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:23:18.932 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:23:23.294 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-30 00:23:24.903 [main] BaseClass - pageObjects.TideShopProductsPagecreated object for this class
+[FATAL] 2022-07-30 00:23:29.797 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:23:29.797 [main] BaseClass - productsTest::excecuted sucessfully
+[INFO ] 2022-07-30 00:23:29.799 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:23:30.085 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:23:30.928 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:23:30.929 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:23:37.287 [main] BaseClass - RemoveStains ::invoked 
+[INFO ] 2022-07-30 00:23:39.517 [main] BaseClass - pageObjects.TideInfoAbtWashPage Was invoking the method
+[FATAL] 2022-07-30 00:23:41.273 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 00:23:41.273 [main] BaseClass - RemoveStains::excecuted sucessfully
+[INFO ] 2022-07-30 00:23:41.295 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:23:41.735 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:23:42.624 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:23:42.624 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:23:47.278 [main] BaseClass - commitment ::invoked 
+[FATAL] 2022-07-30 00:23:49.367 [main] BaseClass - Object was created 
+[FATAL] 2022-07-30 00:23:50.202 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:23:50.202 [main] BaseClass - commitment::excecuted sucessfully
+[INFO ] 2022-07-30 00:23:50.206 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:23:50.902 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:23:51.796 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:23:51.797 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:23:58.717 [main] BaseClass - productTest ::invoked 
+[INFO ] 2022-07-30 00:24:01.172 [main] BaseClass - pageObjects.TideProductsTypePageCreated onject for this class
+[FATAL] 2022-07-30 00:24:02.353 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:24:02.353 [main] BaseClass - productTest::excecuted sucessfully
+[INFO ] 2022-07-30 00:24:02.355 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:24:02.653 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:24:03.541 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:24:03.541 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:24:09.726 [main] BaseClass - termsCon ::invoked 
+[FATAL] 2022-07-30 00:24:13.404 [main] BaseClass - Assertion passes
+[DEBUG] 2022-07-30 00:24:13.404 [main] BaseClass - termsCon::excecuted sucessfully
+[INFO ] 2022-07-30 00:24:13.408 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:24:13.670 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:24:14.572 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:24:14.572 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-30 00:24:21.474 [main] BaseClass - article ::invoked 
+[FATAL] 2022-07-30 00:24:23.968 [main] BaseClass - Scrolling down the window
+[FATAL] 2022-07-30 00:24:24.589 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:24:24.590 [main] BaseClass - article::excecuted sucessfully
+[INFO ] 2022-07-30 00:24:24.591 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:24:24.832 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:24:25.721 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:24:25.721 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-30 00:24:31.881 [main] BaseClass - rewadsTest ::invoked 
+[INFO ] 2022-07-30 00:24:33.549 [main] BaseClass - pageObjects.TideCoupnAndRewadPage created object for this class
+[FATAL] 2022-07-30 00:24:36.626 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 00:24:36.626 [main] BaseClass - rewadsTest::excecuted sucessfully
+[INFO ] 2022-07-30 00:24:36.630 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:24:37.068 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:24:37.939 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:24:37.940 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-30 00:24:42.410 [main] BaseClass - newLaunch ::invoked 
+[INFO ] 2022-07-30 00:24:44.650 [main] BaseClass - pageObjects.TideNewLaunchesPagecreated object for this class
+[FATAL] 2022-07-30 00:24:45.136 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 00:24:45.136 [main] BaseClass - newLaunch::excecuted sucessfully
+[INFO ] 2022-07-30 00:24:45.139 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:24:45.467 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:24:46.339 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:24:46.340 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 00:24:50.904 [main] BaseClass - chatWithSupport ::invoked 
+[INFO ] 2022-07-30 00:24:53.084 [main] BaseClass - pageObjects.TideLiveChatPagecreated object for this class
+[FATAL] 2022-07-30 00:24:53.557 [main] BaseClass - Assertion passes
+[DEBUG] 2022-07-30 00:24:53.558 [main] BaseClass - chatWithSupport::excecuted sucessfully
+[INFO ] 2022-07-30 00:24:53.560 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 00:24:54.291 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 00:24:55.125 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 00:24:55.579 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 12:13:35.015 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 12:13:35.981 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:13:46.043 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-30 12:13:49.005 [main] BaseClass - pageObjects.TideSearchPageMethod was invoking 
+[FATAL] 2022-07-30 12:13:53.293 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 12:13:53.293 [main] BaseClass - productSearch::excecuted sucessfully
+[INFO ] 2022-07-30 12:13:53.300 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:13:53.868 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:13:54.800 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:13:54.803 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:14:01.382 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-30 12:14:16.623 [main] BaseClass - pageObjects.TideShopProductsPagecreated object for this class
+[INFO ] 2022-07-30 12:15:11.931 [main] BaseClass - Validtaing the Test @Before Suite
+[WARN ] 2022-07-30 12:15:12.272 [main] BaseClass - Validation failed
+[INFO ] 2022-07-30 12:15:13.399 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:15:13.400 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:15:21.297 [main] BaseClass - RemoveStains ::invoked 
+[INFO ] 2022-07-30 12:15:23.380 [main] BaseClass - pageObjects.TideInfoAbtWashPage Was invoking the method
+[FATAL] 2022-07-30 12:15:25.630 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 12:15:25.630 [main] BaseClass - RemoveStains::excecuted sucessfully
+[INFO ] 2022-07-30 12:15:25.631 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:15:26.150 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:15:27.095 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:15:27.096 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-30 12:27:26.302 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 12:27:27.162 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:27:36.334 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-30 12:27:38.930 [main] BaseClass - pageObjects.TideSearchPageMethod was invoking 
+[FATAL] 2022-07-30 12:27:43.309 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 12:27:43.309 [main] BaseClass - productSearch::excecuted sucessfully
+[INFO ] 2022-07-30 12:27:43.315 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:27:43.681 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:27:44.667 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:27:44.670 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:27:52.254 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-30 12:27:55.170 [main] BaseClass - pageObjects.TideShopProductsPagecreated object for this class
+[FATAL] 2022-07-30 12:28:01.929 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 12:28:01.929 [main] BaseClass - productsTest::excecuted sucessfully
+[INFO ] 2022-07-30 12:28:01.930 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:28:02.222 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:28:03.203 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:28:03.204 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:28:10.442 [main] BaseClass - RemoveStains ::invoked 
+[INFO ] 2022-07-30 12:28:13.158 [main] BaseClass - pageObjects.TideInfoAbtWashPage Was invoking the method
+[FATAL] 2022-07-30 12:28:14.985 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 12:28:14.985 [main] BaseClass - RemoveStains::excecuted sucessfully
+[INFO ] 2022-07-30 12:28:14.986 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:28:15.500 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:28:16.460 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:28:16.461 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:28:23.959 [main] BaseClass - commitment ::invoked 
+[FATAL] 2022-07-30 12:28:26.525 [main] BaseClass - Object was created 
+[FATAL] 2022-07-30 12:28:27.415 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 12:28:27.415 [main] BaseClass - commitment::excecuted sucessfully
+[INFO ] 2022-07-30 12:28:27.416 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:28:28.173 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:28:29.105 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:28:29.106 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:28:36.432 [main] BaseClass - productTest ::invoked 
+[INFO ] 2022-07-30 12:28:38.849 [main] BaseClass - pageObjects.TideProductsTypePageCreated onject for this class
+[FATAL] 2022-07-30 12:28:40.056 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 12:28:40.056 [main] BaseClass - productTest::excecuted sucessfully
+[INFO ] 2022-07-30 12:28:40.058 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:28:40.399 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:28:41.349 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:28:41.350 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:28:48.567 [main] BaseClass - termsCon ::invoked 
+[FATAL] 2022-07-30 12:28:53.273 [main] BaseClass - Assertion passes
+[DEBUG] 2022-07-30 12:28:53.273 [main] BaseClass - termsCon::excecuted sucessfully
+[INFO ] 2022-07-30 12:28:53.274 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:28:53.516 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:28:54.439 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:28:54.439 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-30 12:28:59.916 [main] BaseClass - article ::invoked 
+[FATAL] 2022-07-30 12:29:02.064 [main] BaseClass - Scrolling down the window
+[FATAL] 2022-07-30 12:29:02.869 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 12:29:02.869 [main] BaseClass - article::excecuted sucessfully
+[INFO ] 2022-07-30 12:29:02.871 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:29:03.163 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:29:04.157 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:29:04.158 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-30 12:29:08.814 [main] BaseClass - rewadsTest ::invoked 
+[INFO ] 2022-07-30 12:29:11.092 [main] BaseClass - pageObjects.TideCoupnAndRewadPage created object for this class
+[FATAL] 2022-07-30 12:29:13.799 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 12:29:13.800 [main] BaseClass - rewadsTest::excecuted sucessfully
+[INFO ] 2022-07-30 12:29:13.802 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:29:14.418 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:29:15.348 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:29:15.349 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-30 12:29:22.859 [main] BaseClass - newLaunch ::invoked 
+[INFO ] 2022-07-30 12:29:24.597 [main] BaseClass - pageObjects.TideNewLaunchesPagecreated object for this class
+[FATAL] 2022-07-30 12:29:25.406 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 12:29:25.406 [main] BaseClass - newLaunch::excecuted sucessfully
+[INFO ] 2022-07-30 12:29:25.407 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:29:25.722 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:29:26.706 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:29:26.707 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:29:32.023 [main] BaseClass - chatWithSupport ::invoked 
+[INFO ] 2022-07-30 12:29:34.671 [main] BaseClass - pageObjects.TideLiveChatPagecreated object for this class
+[FATAL] 2022-07-30 12:29:35.164 [main] BaseClass - Assertion passes
+[DEBUG] 2022-07-30 12:29:35.165 [main] BaseClass - chatWithSupport::excecuted sucessfully
+[INFO ] 2022-07-30 12:29:35.166 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 12:29:35.843 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 12:29:36.761 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 12:29:37.243 [main] BaseClass - All done @after suite
+[INFO ] 2022-07-30 12:50:52.829 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 12:50:53.600 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 12:51:03.212 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-30 12:51:05.876 [main] BaseClass - pageObjects.TideSearchPageMethod was invoking 
+[INFO ] 2022-07-30 13:08:53.069 [main] BaseClass - Initilize Method invoked @Before Suite
+[INFO ] 2022-07-30 13:08:53.834 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 13:09:03.704 [main] BaseClass - productSearch ::invoked 
+[INFO ] 2022-07-30 13:09:05.851 [main] BaseClass - pageObjects.TideSearchPageMethod was invoking 
+[FATAL] 2022-07-30 13:09:12.048 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 13:09:12.049 [main] BaseClass - productSearch::excecuted sucessfully
+[INFO ] 2022-07-30 13:09:12.053 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 13:09:12.349 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 13:09:13.239 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 13:09:13.241 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 13:09:20.013 [main] BaseClass - productsTest ::invoked 
+[INFO ] 2022-07-30 13:09:22.026 [main] BaseClass - pageObjects.TideShopProductsPagecreated object for this class
+[FATAL] 2022-07-30 13:09:32.007 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:09:32.007 [main] BaseClass - productsTest::excecuted sucessfully
+[INFO ] 2022-07-30 13:09:32.008 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 13:09:32.236 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 13:09:33.187 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 13:09:33.187 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 13:09:38.905 [main] BaseClass - RemoveStains ::invoked 
+[INFO ] 2022-07-30 13:09:40.960 [main] BaseClass - pageObjects.TideInfoAbtWashPage Was invoking the method
+[FATAL] 2022-07-30 13:09:42.927 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 13:09:42.927 [main] BaseClass - RemoveStains::excecuted sucessfully
+[INFO ] 2022-07-30 13:09:42.928 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 13:09:43.219 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 13:09:44.175 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 13:09:44.176 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 13:09:49.904 [main] BaseClass - commitment ::invoked 
+[FATAL] 2022-07-30 13:09:52.285 [main] BaseClass - Object was created 
+[FATAL] 2022-07-30 13:09:53.327 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:09:53.328 [main] BaseClass - commitment::excecuted sucessfully
+[INFO ] 2022-07-30 13:09:53.330 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 13:09:54.180 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 13:09:55.153 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 13:09:55.153 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 13:10:00.497 [main] BaseClass - productTest ::invoked 
+[INFO ] 2022-07-30 13:10:02.648 [main] BaseClass - pageObjects.TideProductsTypePageCreated onject for this class
+[FATAL] 2022-07-30 13:10:03.672 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:10:03.672 [main] BaseClass - productTest::excecuted sucessfully
+[INFO ] 2022-07-30 13:10:03.673 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 13:10:04.036 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 13:10:04.986 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 13:10:04.987 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 13:10:10.988 [main] BaseClass - termsCon ::invoked 
+[FATAL] 2022-07-30 13:10:14.698 [main] BaseClass - Assertion passes
+[DEBUG] 2022-07-30 13:10:14.698 [main] BaseClass - termsCon::excecuted sucessfully
+[INFO ] 2022-07-30 13:10:14.700 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 13:10:14.966 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 13:10:15.928 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 13:10:15.929 [main] BaseClass - Browser Invoked @Before Suite
+[INFO ] 2022-07-30 13:10:21.260 [main] BaseClass - article ::invoked 
+[FATAL] 2022-07-30 13:10:23.749 [main] BaseClass - Scrolling down the window
+[FATAL] 2022-07-30 13:10:24.436 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:10:24.436 [main] BaseClass - article::excecuted sucessfully
+[INFO ] 2022-07-30 13:10:24.437 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 13:10:24.792 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 13:10:25.849 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 13:10:25.850 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-30 13:10:33.870 [main] BaseClass - rewadsTest ::invoked 
+[INFO ] 2022-07-30 13:10:36.280 [main] BaseClass - pageObjects.TideCoupnAndRewadPage created object for this class
+[FATAL] 2022-07-30 13:10:39.555 [main] BaseClass - Assertion passes
+[FATAL] 2022-07-30 13:10:39.555 [main] BaseClass - rewadsTest::excecuted sucessfully
+[INFO ] 2022-07-30 13:10:39.556 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 13:10:40.244 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 13:10:41.498 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 13:10:41.499 [main] BaseClass - Browser Invoked @Before Suite
+[FATAL] 2022-07-30 13:10:48.460 [main] BaseClass - newLaunch ::invoked 
+[INFO ] 2022-07-30 13:10:50.728 [main] BaseClass - pageObjects.TideNewLaunchesPagecreated object for this class
+[FATAL] 2022-07-30 13:10:51.345 [main] BaseClass - Assertion passes
+[TRACE] 2022-07-30 13:10:51.346 [main] BaseClass - newLaunch::excecuted sucessfully
+[INFO ] 2022-07-30 13:10:51.347 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 13:10:51.701 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 13:10:52.668 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 13:10:52.669 [main] BaseClass - Browser Invoked @Before Suite
+[TRACE] 2022-07-30 13:10:57.716 [main] BaseClass - chatWithSupport ::invoked 
+[INFO ] 2022-07-30 13:11:00.265 [main] BaseClass - pageObjects.TideLiveChatPagecreated object for this class
+[FATAL] 2022-07-30 13:11:00.833 [main] BaseClass - Assertion passes
+[DEBUG] 2022-07-30 13:11:00.833 [main] BaseClass - chatWithSupport::excecuted sucessfully
+[INFO ] 2022-07-30 13:11:00.834 [main] BaseClass - Validtaing the Test @Before Suite
+[INFO ] 2022-07-30 13:11:01.736 [main] BaseClass - Validation suceesfully passes
+[INFO ] 2022-07-30 13:11:02.685 [main] BaseClass - Browser closed
+[INFO ] 2022-07-30 13:11:03.077 [main] BaseClass - All done @after suite
